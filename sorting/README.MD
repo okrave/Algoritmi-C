@@ -1,11 +1,8 @@
-# Esame laboratorio algoritmi 2016/2017
+# Riassunto tempistiche
 
 
 
-
-
-
-Relazione relativa al primo esercizio di laboratorio, algoritmi di ordinamento:
+Relazione algoritmi di ordinamento:
 
     - HeapSort
     - MergeSort
@@ -175,10 +172,4 @@ Riassunto tempistiche:
                             | Array Double  | 23.63177  | 19.25786  | 62.33011 |      //       |       //      |
 
 
-Per quanto riguarda l'InserionSort e il SelectionSort non si è potuto avere un risultato entro i dieci minuti, un risultato che sinceramente non mi aspettavo, sapendo che è un algoritmo
-di complessità O(n^2) avremo molti confronti/scambi da fare (esattamente nel caso pessimo n^2).
-Per quanto riguarda il merge e il quick parliamo di algoritmi che utilizzano la filosofia divide et impera, dividento il problema originario in problemi più piccoli,
-abbiamo infatti una complessità O(nlogn), questo è conforme con i dati riportati infatti i tempi del merge/quick sono effettivamente minori sia dell'heap che dell'insertion.
-
-Conclusione: vedendo le tempistiche generali si nota come il QuickSort è l'unico algoritmo che mantiene una tempistica che non varia per il tipo di dati, per questo
-è considerato uno dei migliori algoritmi
+Per quanto riguarda l'InserionSort e il SelectionSort non si è potuto avere un risultato entro i dieci minuti (complessità O(n^2))
