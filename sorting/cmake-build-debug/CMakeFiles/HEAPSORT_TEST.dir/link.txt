@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/HEAPSORT_TEST.dir/SelectionSort/SelectionSort.c.o CMakeFiles/HEAPSORT_TEST.dir/SelectionSort/test.c.o CMakeFiles/HEAPSORT_TEST.dir/SelectionSort/test_file_csv.c.o  -o HEAPSORT_TEST 

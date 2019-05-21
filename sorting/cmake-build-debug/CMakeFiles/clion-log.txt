@@ -1,0 +1,4 @@
+/home/luca/Scaricati/clion-2017.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/luca/Scrivania/algoritmiProject2016/Algoritmi2016/laboratorio-algoritmi-2016-17/sorting
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/luca/Scrivania/algoritmiProject2016/Algoritmi2016/laboratorio-algoritmi-2016-17/sorting/cmake-build-debug

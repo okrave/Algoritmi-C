@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/AlberiN_ari.dir/test_file_csv.c.o CMakeFiles/AlberiN_ari.dir/algorithms_nTree.c.o CMakeFiles/AlberiN_ari.dir/binaryTree.c.o CMakeFiles/AlberiN_ari.dir/test.c.o  -o AlberiN_ari 

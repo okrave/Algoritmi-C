@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/luca/Scrivania/algoritmiProject2016/Algoritmi2016/laboratorio-algoritmi-2016-17/sorting/SelectionSort/SelectionSort.c
+SelectionSort.h
+/home/luca/Scrivania/algoritmiProject2016/Algoritmi2016/laboratorio-algoritmi-2016-17/sorting/SelectionSort/SelectionSort.h
+
+/home/luca/Scrivania/algoritmiProject2016/Algoritmi2016/laboratorio-algoritmi-2016-17/sorting/SelectionSort/SelectionSort.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+assert.h
+-
+time.h
+-
+math.h
+-
+
+/home/luca/Scrivania/algoritmiProject2016/Algoritmi2016/laboratorio-algoritmi-2016-17/sorting/SelectionSort/test.c
+stdio.h
+-
+time.h
+-
+math.h
+-
+
+/home/luca/Scrivania/algoritmiProject2016/Algoritmi2016/laboratorio-algoritmi-2016-17/sorting/SelectionSort/test_file_csv.c
+SelectionSort.h
+/home/luca/Scrivania/algoritmiProject2016/Algoritmi2016/laboratorio-algoritmi-2016-17/sorting/SelectionSort/SelectionSort.h
+

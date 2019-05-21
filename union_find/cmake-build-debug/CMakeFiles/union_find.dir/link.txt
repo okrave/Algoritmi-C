@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/union_find.dir/union_find.c.o CMakeFiles/union_find.dir/test.c.o CMakeFiles/union_find.dir/test_on_union.c.o  -o union_find 

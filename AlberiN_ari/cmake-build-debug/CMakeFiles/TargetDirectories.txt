@@ -1,0 +1,3 @@
+/home/luca/Scrivania/algoritmiProject2016/Algoritmi2016/laboratorio-algoritmi-2016-17/AlberiN_ari/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/luca/Scrivania/algoritmiProject2016/Algoritmi2016/laboratorio-algoritmi-2016-17/AlberiN_ari/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/luca/Scrivania/algoritmiProject2016/Algoritmi2016/laboratorio-algoritmi-2016-17/AlberiN_ari/cmake-build-debug/CMakeFiles/NARY_TEST.dir

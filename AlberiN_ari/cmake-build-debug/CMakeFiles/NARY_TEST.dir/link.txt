@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/NARY_TEST.dir/test_nTree.c.o CMakeFiles/NARY_TEST.dir/algorithms_nTree.c.o CMakeFiles/NARY_TEST.dir/test.c.o  -o NARY_TEST 

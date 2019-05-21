@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/luca/Scrivania/algoritmiProject2016/Algoritmi2016/laboratorio-algoritmi-2016-17/AlberiN_ari/algorithms_nTree.c
+n_tree.h
+/home/luca/Scrivania/algoritmiProject2016/Algoritmi2016/laboratorio-algoritmi-2016-17/AlberiN_ari/n_tree.h
+
+/home/luca/Scrivania/algoritmiProject2016/Algoritmi2016/laboratorio-algoritmi-2016-17/AlberiN_ari/n_tree.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+assert.h
+-
+time.h
+-
+math.h
+-
+
+/home/luca/Scrivania/algoritmiProject2016/Algoritmi2016/laboratorio-algoritmi-2016-17/AlberiN_ari/test.c
+stdio.h
+-
+time.h
+-
+math.h
+-
+
+/home/luca/Scrivania/algoritmiProject2016/Algoritmi2016/laboratorio-algoritmi-2016-17/AlberiN_ari/test_nTree.c
+n_tree.h
+/home/luca/Scrivania/algoritmiProject2016/Algoritmi2016/laboratorio-algoritmi-2016-17/AlberiN_ari/n_tree.h
+

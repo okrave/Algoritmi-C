@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/luca/Scrivania/algoritmiProject2016/Algoritmi2016/laboratorio-algoritmi-2016-17/maxHeap/max_heap.c
+max_heap.h
+/home/luca/Scrivania/algoritmiProject2016/Algoritmi2016/laboratorio-algoritmi-2016-17/maxHeap/max_heap.h
+
+/home/luca/Scrivania/algoritmiProject2016/Algoritmi2016/laboratorio-algoritmi-2016-17/maxHeap/max_heap.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+assert.h
+-
+time.h
+-
+math.h
+-
+assert.h
+-
+
+/home/luca/Scrivania/algoritmiProject2016/Algoritmi2016/laboratorio-algoritmi-2016-17/maxHeap/test.c
+stdio.h
+-
+time.h
+-
+math.h
+-
+max_heap.h
+/home/luca/Scrivania/algoritmiProject2016/Algoritmi2016/laboratorio-algoritmi-2016-17/maxHeap/max_heap.h
+
+/home/luca/Scrivania/algoritmiProject2016/Algoritmi2016/laboratorio-algoritmi-2016-17/maxHeap/test_heap.c
+max_heap.h
+/home/luca/Scrivania/algoritmiProject2016/Algoritmi2016/laboratorio-algoritmi-2016-17/maxHeap/max_heap.h
+
