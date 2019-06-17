@@ -4,35 +4,6 @@ Il presente documento riporta i testi degli esercizi da svolgere e consegnare al
 sostenere la prova di laboratorio per il corso di Algoritmi e Strutture Dati, preceduti da alcune
 indicazioni e suggerimenti relativi allo svolgimento degli stessi.
 
-
-## Uso di ```Git```
-
-
-Durante la scrittura del codice è richiesto di usare in modo appropriato il
-sistema di versioning ```Git```. Questa richiesta implica quanto segue:
-
-- il progetto di laboratorio va inizializzato "clonando" il repository del
-  laboratorio come descritto nel file [Git](Git.md);
-- come è prassi nei moderni ambienti di sviluppo, è richiesto di effettuare
-  commit frequenti. L'ideale è un commit per ogni blocco di lavoro terminato
-  (es. creazione e test di una nuova funzione, soluzione di un baco, creazione
-    di una nuova interfaccia, ...);
-- ogni membro del gruppo dovrebbe effettuare il commit delle modifiche che lo
-  hanno visto come principale sviluppatore;
-- al termine del lavoro si dovrà consegnare l'intero repository.
-
-Il file [Git.md](Git.md) contiene un esempio di come usare Git per lo sviluppo degli
-esercizi proposti per questo laboratorio.
-
-**Nota importante**: su git dovrà essere caricato solamente il codice sorgente, in particolare nessun file dati dovrà essere oggetto di commit!
-
-Si rammenta che la valutazione del progetto di laboratorio considererà anche l'uso adeguato di git da parte di ciascun membro del gruppo.
-
-## Unit testing
-
-Come indicato esplicitamente nei testi degli esercizi, il progetto di laboratorio comprende anche la definizione di opportune suite di unit tests.
-Si rammenta, però, che il focus del laboratorio è l'implementazione di strutture dati e algoritmi. Relativamente agli unit-test sarà quindi sufficiente che gli studenti dimostrino di averne colto il senso e di saper realizzare una semplice suite di test sufficiente a coprire i casi più comuni (compresi, in particolare, i casi limite).
-
 ## Linguaggio in cui sviluppare il laboratorio
 
 È lasciata libertà allo studente di implementare il codice usando Java o C.
